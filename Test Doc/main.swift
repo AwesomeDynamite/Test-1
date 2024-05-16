@@ -12,3 +12,4 @@ let var1 = "Alex"
 let pi = 3.14
 let message = "Hello my name is \(var1) and the number of pi is \(pi)"
 print(message)
+print("Sync Test")
