@@ -7,9 +7,23 @@
 
 import Foundation
 
+
+// Variables
 print("Hello, World!")
-let var1 = "Alex"
+let name = "Alex"
 let pi = 3.14
-let message = "Hello my name is \(var1) and the number of pi is \(pi)"
+let normalNumber = 2
+let message = "Hello my name is \(name) and the number of pi is \(pi) \(3) and a normal number is \(normalNumber)"
 print(message)
-print("Sync Test")
+
+
+
+// Variables Booleons and More
+print(300/2)
+print("Alex")
+print(true)
+
+// Math
+let x = 5
+let y = 12
+print (String(x) + "+" + String(y) + "=" + String(x+y))
