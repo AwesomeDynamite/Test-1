@@ -9,5 +9,6 @@ import Foundation
 
 print("Hello, World!")
 let var1 = "Alex"
-let message = "Hello my name is \(var1)"
+let pi = 3.14
+let message = "Hello my name is \(var1) and the number of pi is \(pi)"
 print(message)
