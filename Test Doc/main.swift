@@ -19,7 +19,7 @@ print(message)
 
 
 // Variables and More
-print(300/2)
+print(308/6)
 print("Alex")
 print(true)
 
